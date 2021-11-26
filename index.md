@@ -1,4 +1,3 @@
-<!doctype>
 <html>
   <head>
     
@@ -21,3 +20,8 @@
   </body>
   
 </html>
+
+---
+title: Fallout, St. Louis
+layout: default
+---
