@@ -1,7 +1,7 @@
 <html>
   <head>
     
-    <title>{{ page.title }}</title>
+    <title>{{ Fallout, St. Louis }}</title>
     
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -16,12 +16,7 @@
   </head>
   
   <body>
-    <iframe src="https://snazzymaps.com/embed/355456" width="1600px" height="900px" style="border:none;"></iframe>
+    <iframe src="https://snazzymaps.com/embed/355456" width="1400px" height="900px" style="border:none;"></iframe>
   </body>
   
 </html>
-
----
-title: Fallout, St. Louis
-layout: default
----
