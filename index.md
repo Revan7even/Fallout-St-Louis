@@ -1,6 +1,9 @@
+<!doctype>
 <html>
-  
   <head>
+    
+    <title>{{ page.title }}</title>
+    
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -12,9 +15,9 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
   </head>
-
+  
   <body>
-    <iframe src="https://snazzymaps.com/embed/355456" width="900px" height="700px" style="border:none;"></iframe>
+    <iframe src="https://snazzymaps.com/embed/355456" width="1600px" height="900px" style="border:none;"></iframe>
   </body>
-    
-  </html>
+  
+</html>
