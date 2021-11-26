@@ -10,4 +10,4 @@
   <meta name="theme-color" content="#ffffff">
 </head>
 
-<iframe src="https://snazzymaps.com/embed/355456" width="1800px" height="1400px" style="border:none;"></iframe>
+<iframe src="https://snazzymaps.com/embed/355456" width="900px" height="700px" style="border:none;"></iframe>
