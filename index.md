@@ -14,10 +14,6 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
   </head>
-  
-  <script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuEyuz8lcLkz7w6ZcsjnV9G7PsxQ47i8I&callback=initMap">
-  </script>
 
   <body>
     <iframe src="https://snazzymaps.com/embed/355456" width="1800px" height="1200px" style="border:none;"></iframe>
