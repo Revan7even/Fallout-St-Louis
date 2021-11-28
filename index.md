@@ -16,11 +16,11 @@
   </head>
   
   <script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyChKS7brHbzSvi_PxY3c3vsSKl4jQ02qog&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDuEyuz8lcLkz7w6ZcsjnV9G7PsxQ47i8I&callback=initMap">
   </script>
 
   <body>
-    <iframe src="https://snazzymaps.com/embed/355456" width="1600px" height="900px" style="border:none;"></iframe>
+    <iframe src="https://snazzymaps.com/embed/355456" width="1800px" height="1200px" style="border:none;"></iframe>
   </body>
   
 </html>
